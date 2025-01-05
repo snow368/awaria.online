@@ -1,4 +1,4 @@
-# Awaria Game Website(www.awaria.online)
+# Awaria Game Website(https://www.awaria.online)
 
 Welcome to the official website repository for Awaria Game.
 
